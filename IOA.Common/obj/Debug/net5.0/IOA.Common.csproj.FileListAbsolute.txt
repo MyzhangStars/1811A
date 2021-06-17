@@ -1,0 +1,15 @@
+C:\Users\张健\Desktop\IOA\IOA.Common\bin\Debug\net5.0\IOA.Model.dll
+C:\Users\张健\Desktop\IOA\IOA.Common\obj\Debug\net5.0\IOA.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\张健\Desktop\IOA\IOA.Common\obj\Debug\net5.0\IOA.Common.AssemblyInfoInputs.cache
+C:\Users\张健\Desktop\IOA\IOA.Common\obj\Debug\net5.0\IOA.Common.AssemblyInfo.cs
+C:\Users\张健\Desktop\IOA\IOA.Common\obj\Debug\net5.0\IOA.Common.csproj.CoreCompileInputs.cache
+C:\Users\张健\Desktop\IOA\IOA.Common\bin\Debug\net5.0\IOA.Common.deps.json
+C:\Users\张健\Desktop\IOA\IOA.Common\bin\Debug\net5.0\IOA.Common.dll
+C:\Users\张健\Desktop\IOA\IOA.Common\bin\Debug\net5.0\ref\IOA.Common.dll
+C:\Users\张健\Desktop\IOA\IOA.Common\bin\Debug\net5.0\IOA.Common.pdb
+C:\Users\张健\Desktop\IOA\IOA.Common\bin\Debug\net5.0\IOA.Model.pdb
+C:\Users\张健\Desktop\IOA\IOA.Common\obj\Debug\net5.0\IOA.Common.csproj.CopyComplete
+C:\Users\张健\Desktop\IOA\IOA.Common\obj\Debug\net5.0\IOA.Common.dll
+C:\Users\张健\Desktop\IOA\IOA.Common\obj\Debug\net5.0\ref\IOA.Common.dll
+C:\Users\张健\Desktop\IOA\IOA.Common\obj\Debug\net5.0\IOA.Common.pdb
+C:\Users\张健\Desktop\IOA\IOA.Common\obj\Debug\net5.0\IOA.Common.csproj.AssemblyReference.cache

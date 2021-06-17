@@ -1,0 +1,58 @@
+﻿@{Layout = null; }
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>用户登录</title>
+    <link href="~/Scripts/login.css" rel="stylesheet" />
+    <link href="~/Scripts/layui-v2.6.7/layui/css/layui.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="particles">
+        <canvas class="pg-canvas" width="1280" height="580"></canvas>
+        <div class="login-body layui-form">
+            <div class="login-title">
+                物联网+协同办公云平台
+            </div>
+            <div class="login-item">
+                <label class="layui-icon layui-icon-username"></label>
+                <input type="text" id="txtUserName" class="layui-input" placeholder="用户名" />
+            </div>
+            <div class="login-item">
+                <label class="layui-icon layui-icon-password"></label>
+                <input type="password" id="txtUserPwd" class="layui-input" placeholder="密码" />
+            </div>
+            <div class="login-item">
+                <div class="layui-inline" style="width:210px;">
+                    <label class="layui-icon layui-icon-auz"></label>
+                    <input type="text" id="txtCode" class="layui-input" placeholder="验证码" />
+                </div>
+                <div class="layui-inline">
+                    <img id="imgCode" src="/Home/VerifyCode" class="imgcode" alt="点击切换验证码" title="点击切换验证码" onclick="changeCode()" />
+                </div>
+            </div>
+            <div class="login-item">
+                <button id="btnLogin" class="layui-btn layui-btn-fluid">登  录</button>
+            </div>
+        </div>
+    </div>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/jquery.particleground.min.js"></script>
+    <script src="~/Scripts/layui-v2.6.7/layui/layui.js"></script>
+    <script src="~/Scripts/Page/login.js"></script>
+    @*<script type="text/javascript">
+            layui.use(['layer'], function () {
+                layer.open({
+                    type: 1,
+                    title: '提示',
+                    area: ['350px', '250px'],
+                    offset: 'rb',
+                    shade: 0,
+                    content: '<div style="padding:20px;line-height:35px;font-size:15px"><p>物联网专高六(小实训二)教学实战项目</p><p>登录账号密码：sysadmin、123456</p><p>请勿随意修改密码，删除测试数据！</p><p>版权所属：物联网杨继平，</p></div>'
+                });
+            })
+        </script>*@
+</body>
+</html>

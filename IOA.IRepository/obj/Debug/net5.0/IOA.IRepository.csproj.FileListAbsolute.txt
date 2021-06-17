@@ -1,0 +1,15 @@
+C:\Users\张健\Desktop\IOA\IOA.IRepository\obj\Debug\net5.0\IOA.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\张健\Desktop\IOA\IOA.IRepository\obj\Debug\net5.0\IOA.IRepository.AssemblyInfoInputs.cache
+C:\Users\张健\Desktop\IOA\IOA.IRepository\obj\Debug\net5.0\IOA.IRepository.AssemblyInfo.cs
+C:\Users\张健\Desktop\IOA\IOA.IRepository\obj\Debug\net5.0\IOA.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\张健\Desktop\IOA\IOA.IRepository\bin\Debug\net5.0\IOA.IRepository.deps.json
+C:\Users\张健\Desktop\IOA\IOA.IRepository\bin\Debug\net5.0\IOA.IRepository.dll
+C:\Users\张健\Desktop\IOA\IOA.IRepository\bin\Debug\net5.0\ref\IOA.IRepository.dll
+C:\Users\张健\Desktop\IOA\IOA.IRepository\bin\Debug\net5.0\IOA.IRepository.pdb
+C:\Users\张健\Desktop\IOA\IOA.IRepository\bin\Debug\net5.0\IOA.Model.dll
+C:\Users\张健\Desktop\IOA\IOA.IRepository\bin\Debug\net5.0\IOA.Model.pdb
+C:\Users\张健\Desktop\IOA\IOA.IRepository\obj\Debug\net5.0\IOA.IRepository.csproj.CopyComplete
+C:\Users\张健\Desktop\IOA\IOA.IRepository\obj\Debug\net5.0\IOA.IRepository.dll
+C:\Users\张健\Desktop\IOA\IOA.IRepository\obj\Debug\net5.0\ref\IOA.IRepository.dll
+C:\Users\张健\Desktop\IOA\IOA.IRepository\obj\Debug\net5.0\IOA.IRepository.pdb
+C:\Users\张健\Desktop\IOA\IOA.IRepository\obj\Debug\net5.0\IOA.IRepository.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\张健\Desktop\IOA\IOA.Model\obj\Debug\net5.0\IOA.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\张健\Desktop\IOA\IOA.Model\obj\Debug\net5.0\IOA.Model.AssemblyInfoInputs.cache
+C:\Users\张健\Desktop\IOA\IOA.Model\obj\Debug\net5.0\IOA.Model.AssemblyInfo.cs
+C:\Users\张健\Desktop\IOA\IOA.Model\obj\Debug\net5.0\IOA.Model.csproj.CoreCompileInputs.cache
+C:\Users\张健\Desktop\IOA\IOA.Model\bin\Debug\net5.0\IOA.Model.deps.json
+C:\Users\张健\Desktop\IOA\IOA.Model\bin\Debug\net5.0\IOA.Model.dll
+C:\Users\张健\Desktop\IOA\IOA.Model\bin\Debug\net5.0\ref\IOA.Model.dll
+C:\Users\张健\Desktop\IOA\IOA.Model\bin\Debug\net5.0\IOA.Model.pdb
+C:\Users\张健\Desktop\IOA\IOA.Model\obj\Debug\net5.0\IOA.Model.dll
+C:\Users\张健\Desktop\IOA\IOA.Model\obj\Debug\net5.0\ref\IOA.Model.dll
+C:\Users\张健\Desktop\IOA\IOA.Model\obj\Debug\net5.0\IOA.Model.pdb
+C:\Users\张健\Desktop\IOA\IOA.Model\obj\Debug\net5.0\IOA.Model.csproj.AssemblyReference.cache
